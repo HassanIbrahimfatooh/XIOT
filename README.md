@@ -8,7 +8,7 @@ The Assumptions :
 The instructions for setting the app up:                                                                                                  
       1- Create New C Project                                                                                                           
       2- AVR Empty AVR Project                                                                                                             
-      3- Choose the type of the MCU (ATmega32) in our case  * The Project will then be created*                                                 4- Create New Source File (Main.c)                                                                                                  
+      3- Choose the type of the MCU (ATmega32) in our case  * The Project will then be created*                                                 4- Create New Source File (Main.c) .                                                                                                 
       5- Include any driver you made before or make a new one if you didn't                                                             
       6- Complete your Project                                                                                                    
   
